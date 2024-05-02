@@ -1,2 +1,2 @@
 # Javascript-learning
-A code repo of Javascript Learning
+A code repo for Javascript Learning
